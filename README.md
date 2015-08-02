@@ -4,7 +4,8 @@ pour faire fonctionner le cercle vous avez besoin de du compilateur GCC et de l'
 le cercle a été programmé sur un LINUX.
 
 Pour le compiler faire:
-gcc test2.c -lSDL2 -lm 
+gcc test2.c -lSDL2 -lm
+
 a.out
 
 create cercle in C with SDL2. use: gcc test2.c -lSDL2 -ml
